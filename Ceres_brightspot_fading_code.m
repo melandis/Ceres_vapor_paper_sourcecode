@@ -2,9 +2,7 @@
 %bright spots on Ceres. Modern Ceres orbital parameters are used, but can
 %be changed. First calculates a column of ice with a many thermal skin
 %depts thick layer of regolith on the top, and then in a second time loop
-%takes this away and allows that bright area to sublimate. Time,
-%temperatures, vapor pressure, change in mass and linear dimension of an
-%ice table are also included.
+%takes this away and allows that bright area to sublimate.
 
 %Written by M.E. Landis, used in M.E. Landis et al., 2017 JGR
 %Created in MATLAB_2016a
