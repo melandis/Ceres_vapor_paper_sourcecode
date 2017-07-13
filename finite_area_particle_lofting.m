@@ -85,7 +85,7 @@ set(gca, 'Ydir', 'normal')
 set(gca,'fontsize',20)
 axis([cold hot 0 5])
 
-[C, h]=contour(T, h./1e3, log10((d_final'*1e6)), [-1, 0, 1], 'w', 'LineWidth', 3)
+[C, h]=contour(T, h_km, log10((d_final'*1e6)), [-1, 0, 1], 'w', 'LineWidth', 3)
 
 
 
