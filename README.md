@@ -1,6 +1,6 @@
 # Ceres_vapor_paper_sourcecode
 
-This is the source code used in <i>Landis et al.,</i> [2017] on the vapor production from various configurations of water ice on Ceres (DOI:TBD, currently under revision)
+This is the source code used in <i>Landis et al.,</i> [2017] on the vapor production from various configurations of water ice on Ceres (DOI:10.1002/2017JE005335)
 
 
 <b>Buried ice table sublimation</b>
